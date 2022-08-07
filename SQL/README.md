@@ -6,3 +6,5 @@ Problem Statement:
 store’s inventory management system.
 - You are provided with an unnormalised database, and are expected to normalise it's contents to bring it into 3rd
 - Normal Form (3NF). The database has 2 tables (products and transactions). 
+
+![SQL]( https://cdn.wallpapersafari.com/63/97/0NF2HM.jpg)
