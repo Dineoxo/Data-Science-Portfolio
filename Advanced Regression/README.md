@@ -1,4 +1,4 @@
-**Machine Learning Course**
+**Machine Learning Sprint**
 
 - Included in this folder is the Machine Learning predict and code challenges throughout the Explore Academy  
 
