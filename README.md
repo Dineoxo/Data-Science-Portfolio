@@ -10,4 +10,4 @@ Namely:
 
 EXPLORE is a global, cutting edge Data Science Academy. We teach Data Science, Data Engineering, Machine Learning and related skills to equip people for lucrative careers of the future.
 
-![Data Science]( https://www.simplilearn.com/tutorials/data-science-tutorial/what-is-data-science)
+![Data Science](https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Data_Science.jpg)
